@@ -1,9 +1,9 @@
 # Sagar K — Full-Stack Developer Portfolio
 
-Production-ready portfolio built with Next.js, TypeScript, and a system-driven animation architecture.
+> Final-year Computer Science student building production-grade web applications with scalable architecture and intentional motion systems.
 
-🔗 Live: https://your-vercel-link.vercel.app  
-💻 Repository: https://github.com/sagarzaz/sagar-portfolio
+🌐 **Live:** https://sagark-dev.vercel.app  
+📂 **Code:** https://github.com/sagarzaz/sagar-portfolio
 
 ---
 
