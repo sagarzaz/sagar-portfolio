@@ -108,7 +108,7 @@ export function SocialSection() {
             <div>
               <span className="block font-semibold text-foreground">GitHub</span>
               <span className="text-sm text-muted-foreground">
-                @yourusername
+                @sagarzaz
               </span>
             </div>
           </motion.a>
