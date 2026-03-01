@@ -119,7 +119,7 @@ export function ContactSection() {
                   <ArrowUpRight className="h-4 w-4" />
                 </motion.a>
                 <motion.a
-                  href="/resume.pdf"
+                  href="https://sagar5361.sirv.com/portfolio/sagar_cv.pdf"
                   className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-secondary px-6 py-3 font-semibold text-secondary-foreground hover:bg-secondary/80"
                   whileHover={reduced ? undefined : { scale: 1.02 }}
                   whileTap={reduced ? undefined : { scale: 0.98 }}

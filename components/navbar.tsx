@@ -126,7 +126,7 @@ export function Navbar() {
             )
           })}
           <motion.a
-            href="/resume.pdf"
+            href="https://sagar5361.sirv.com/portfolio/sagar_cv.pdf"
             className="ml-3 inline-flex items-center rounded-lg bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground hover:opacity-90"
             whileHover={reduced ? undefined : { scale: 1.02 }}
             whileTap={reduced ? undefined : { scale: 0.98 }}
@@ -181,7 +181,7 @@ export function Navbar() {
                 )
               })}
               <a
-                href="/resume.pdf"
+                href="https://sagar5361.sirv.com/portfolio/sagar_cv.pdf"
                 className="mt-2 inline-flex items-center justify-center rounded-lg bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground"
               >
                 Resume
